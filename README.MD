@@ -1,11 +1,8 @@
-
 # ViableTrips
 
 Viabletrips is a unique tourism company that offers the incredible service of providing local travel buddies to enhance your exploration of any destination.
 
-
 ![Logo](https://i.ibb.co/FsvPspH/logo-Small.png)
-
 
 ## Screenshots
 
@@ -13,14 +10,12 @@ Viabletrips is a unique tourism company that offers the incredible service of pr
 
 ## Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary | ![#008768](https://via.placeholder.com/10/008768?text=+) #008768 |
-| Secondary| ![#EEF0F5](https://via.placeholder.com/10/EEF0F5?text=+) #EEF0F5 |
-| Error| ![#F63333](https://via.placeholder.com/10/F63333?text=+) #F63333 |
-| Text | ![#1E1F21](https://via.placeholder.com/10/1E1F21?text=+) #1E1F21 |
-
-
+| Color     | Hex                                                              |
+| --------- | ---------------------------------------------------------------- |
+| Primary   | ![#008768](https://via.placeholder.com/10/008768?text=+) #008768 |
+| Secondary | ![#EEF0F5](https://via.placeholder.com/10/EEF0F5?text=+) #EEF0F5 |
+| Error     | ![#F63333](https://via.placeholder.com/10/F63333?text=+) #F63333 |
+| Text      | ![#1E1F21](https://via.placeholder.com/10/1E1F21?text=+) #1E1F21 |
 
 ## Documentation
 
@@ -30,12 +25,12 @@ Viabletrips is a unique tourism company that offers the incredible service of pr
 
 [Site_Map](https://i.ibb.co/StnWY1p/Site-map.png)
 
-
 ## Demo
 
 Insert gif or link to demo
 
 https://www.figma.com/file/G7JwatTKCHr2C1eljXDIeq/viable_trip?type=design&node-id=0%3A1&mode=design&t=eNQgu69y47P3D8Dj-1
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -45,7 +40,6 @@ To run this project, you will need to add the following environment variables to
 `ACCESS_TOKEN_SECRET`
 
 `REFRESH_TOKEN_SECRET`
-
 
 ## Run Locally
 
@@ -72,6 +66,7 @@ Start the server
 ```bash
   npm start
 ```
+
 2. Go to the admin side frontend
 
 ```bash
@@ -106,9 +101,9 @@ Start the server
 
 ```bash
   npm start
-  ```
-# Hi, I'm Shubham! 👋
+```
 
+# Hi, I'm Shubham! 👋
 
 ## 🚀 About Me
 
@@ -127,10 +122,11 @@ Sure, here's a draft for your "About Me" section:
 🚀 Whether it's collaborating with a team or tackling projects independently, I'm dedicated to pushing boundaries, solving complex problems, and delivering solutions that stand out in today's competitive market.
 
 Let's connect and collaborate to turn your ideas into reality!
+
 ## 🛠 Skills
 
-
 ## MERN Stack Development
+
 - MongoDB
 - Express.js
 - React.js
@@ -140,25 +136,24 @@ Let's connect and collaborate to turn your ideas into reality!
 - RTK Query
 
 ## Graphic Design
+
 - Adobe Photoshop
 - Adobe Illustrator
 - Figma
 - Adobe XD
 
 ## UI/UX Design
+
 - User Interface Design
 - User Experience Design
 
 ## Android Development
+
 - Java
 - Kotlin
 
 💻 With a keen eye for aesthetics and a flair for creativity, I enjoy crafting robust web applications, designing captivating graphics, and developing intuitive user interfaces. Let's connect and collaborate to turn your ideas into reality!
 
-
-
 ## Authors
 
 - [@Shubham](https://github.com/shubhamMadheshiya)
-
-
