@@ -1,0 +1,10 @@
+
+@import "react-alice-carousel/lib/alice-carousel.css";
+.App{
+    min-height: 100%;
+    background-color: brown;
+}
+.card-slider{
+    display: flex;
+    flex-direction: row;
+}
