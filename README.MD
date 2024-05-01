@@ -27,7 +27,7 @@ Viabletrips is a unique tourism company that offers the incredible service of pr
 
 ## Demo
 
-Insert gif or link to demo
+figma file link
 
 https://www.figma.com/file/G7JwatTKCHr2C1eljXDIeq/viable_trip?type=design&node-id=0%3A1&mode=design&t=eNQgu69y47P3D8Dj-1
 
